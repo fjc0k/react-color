@@ -3,10 +3,11 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "2.19.0",
+  "version": "2.19.1",
   "description": "A Collection of Color Pickers from Sketch, Photoshop, Chrome & more",
   "main": "lib/index.js",
   "module": "es/index.js",
+  "types": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/casesandberg/react-color.git"
@@ -47,6 +48,7 @@
   ],
   "dependencies": {
     "@icons/material": "^0.2.4",
+    "@types/react-color": "^3.0.4",
     "lodash": "^4.17.15",
     "lodash-es": "^4.17.15",
     "material-colors": "^1.2.1",
