@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "2.19.1",
+  "version": "2.19.2",
   "description": "A Collection of Color Pickers from Sketch, Photoshop, Chrome & more",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -108,7 +108,8 @@
   },
   "files": [
     "lib",
-    "es"
+    "es",
+    "index.d.ts"
   ],
   "jest": {
     "rootDir": "src",
