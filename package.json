@@ -1,5 +1,8 @@
 {
-  "name": "react-color",
+  "name": "@jayfong/react-color",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "2.19.0",
   "description": "A Collection of Color Pickers from Sketch, Photoshop, Chrome & more",
   "main": "lib/index.js",
